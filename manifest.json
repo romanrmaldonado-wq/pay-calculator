@@ -1,0 +1,19 @@
+{
+    "name": "Pay Period Calculator",
+    "short_name": "Pay Calc",
+    "description": "Track appointments, estimates, and calculate pay bonuses",
+    "start_url": "./index.html",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#d4e157",
+    "theme_color": "#198754",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "./icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
